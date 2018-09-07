@@ -1,6 +1,6 @@
 ---
 templateKey: biz-marketing-page
-title: Cafes
+title: Cafes wwere
 top_banner:
   bannerDescription: >-
     Start by finding and claiming your Yelp business page for free, or add your
