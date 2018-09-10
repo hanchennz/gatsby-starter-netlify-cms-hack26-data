@@ -3,7 +3,7 @@ templateKey: biz-marketing-page
 title: A new page~!
 top_banner:
   bannerDescription: rewrew
-  bannerLogo: /img/co5b5678.jpg
+  bannerLogo: /img/pexels-photo-685534.jpeg
   bannerTitle: Wfwer
 read_more: rewrew
 image_panels:
