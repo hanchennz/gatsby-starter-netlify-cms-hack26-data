@@ -3,8 +3,8 @@ templateKey: biz-marketing-page
 title: Cafes wwere
 top_banner:
   bannerDescription: >-
-    Start by finding and claiming your Yelp business page for free, or add your
-    business here
+    Millions of people turn to Yelp every day to make spending decisions.
+    Millions of people turn to Yelp every day to make spending decisions. 
   bannerLogo: /img/hckt-illust-01-2x.png
   bannerTitle: 'Connect with your community, and grow your business'
 read_more: How Yelp connects people with great local businesses
