@@ -5,7 +5,7 @@ top_banner:
   bannerDescription: >-
     I want to use this page to test uploading images to the repo. This section
     contains existing images. 
-  bannerLogo: /img/flagGirl.png
+  bannerLogo: /img/berkshire-pork-belly-pear-tree-full-width-food.jpg
   bannerTitle: Image Test Page
 read_more: Learn more!
 image_panels:
