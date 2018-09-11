@@ -5,11 +5,11 @@ top_banner:
   bannerDescription: >-
     Millions of people turn to Yelp every day to make spending decisions.
     Millions of people turn to Yelp every day to make spending decisions. 
-  bannerLogo: /img/hckt-illust-01-2x.png
+  bannerLogo: /img/hckt-illust-02-2x.png
   bannerTitle: 'Connect with your community, and grow your business'
 read_more: How Yelp connects people with great local businesses
 image_panels:
-  - image: /img/products-grid1.jpg
+  - image: /img/hckt-illust-04-2x.png
     orientation: right
     text: >-
       We hold our coffee to the highest standards from the shrub to the cup.
