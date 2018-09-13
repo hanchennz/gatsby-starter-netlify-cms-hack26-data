@@ -4,7 +4,7 @@ title: Bobby's Test Page
 top_banner:
   bannerDescription: Here we have content
   bannerLogo: /img/maxresdefault.jpg
-  bannerTitle: Bobby's Page
+  bannerTitle: Bobby's Page V2
 read_more: Read this
 image_panels:
   - image: /img/hckt-illust-02-2x.png
