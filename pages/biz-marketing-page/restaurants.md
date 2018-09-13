@@ -4,7 +4,7 @@ title: Restaurants
 top_banner:
   bannerDescription: >-
     Start by finding and claiming your Yelp business page for free, or add your
-    business here
+    business here. Trying to edit this with Whatever. 
   bannerLogo: /img/hckt-illust-03-2x.png
   bannerTitle: Why you should claim your business on Yelp today hello world
 read_more: this is the readmore sectino
