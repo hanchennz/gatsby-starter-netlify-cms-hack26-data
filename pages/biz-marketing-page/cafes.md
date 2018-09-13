@@ -4,7 +4,8 @@ title: Cafes wwere
 top_banner:
   bannerDescription: >-
     Millions of people turn to Yelp every day to make spending decisions.
-    Millions of people turn to Yelp every day to make spending decisions. 
+    Millions of people turn to Yelp every day to make spending decisions. His is
+    new stuff!
   bannerLogo: /img/hckt-illust-02-2x.png
   bannerTitle: 'Connect with your community, and grow your business'
 read_more: How Yelp connects people with great local businesses
